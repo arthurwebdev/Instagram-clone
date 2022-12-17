@@ -1,0 +1,20 @@
+.SearchAnswer{
+	width: 350px;
+	max-height: 400px;
+	overflow-y: scroll;
+	background-color: #fafafa;
+	border-top: none;
+	border: 1px solid #dfdfdf;
+	position: absolute;
+	top: 50px;
+	left: 37%;
+	padding: 0 10px;
+}
+
+.no-answer{
+	text-align: center;
+	margin: 20px 10px;
+	font-size: 20px;
+	word-wrap: break-word;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

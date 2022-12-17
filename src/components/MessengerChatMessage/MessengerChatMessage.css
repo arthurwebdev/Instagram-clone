@@ -1,0 +1,12 @@
+.One-message{
+	max-width: 300px;
+	padding: 10px 15px;
+	margin: 2px 0;
+	border-radius: 15px;
+	word-wrap: break-word;
+	word-break: break-all;
+}
+
+.One-message p {
+	font-size: 15px;
+}

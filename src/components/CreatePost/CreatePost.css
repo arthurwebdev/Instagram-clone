@@ -1,0 +1,46 @@
+.container-create{
+	text-align: center;
+	position: relative;
+	top: 70px;
+}
+
+.container-create form {
+	margin: auto;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.container-create p{
+	font-size: 17px;
+	font-weight:700;
+}
+
+.container-create input{
+	width: 400px;
+	height: 35px;
+	padding: 0 10px;
+	font-size: 15px;
+	border: 1px solid #dfdfdf;
+	border-radius: 10px;
+}
+
+
+
+.container-create button{
+	margin-top: 10px;
+	width: 400px;
+	padding: 10px 0;
+	border-radius: 10px;
+	border: none;
+	font-size: 20px;
+	background-color: #0095ff;
+	color: #fff;
+	cursor: pointer;
+	transition: all 1s;
+}
+
+.container-create button:hover{
+	opacity: 0.7;
+	border: #dfdfdf;
+}

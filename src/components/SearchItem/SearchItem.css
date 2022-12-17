@@ -1,0 +1,26 @@
+.SearchItem{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 20px;
+	padding: 15px 0;
+	border-bottom: 1px solid #dfdfdf;
+}
+
+.SearchItem-body{
+	display: flex;
+	align-items: center;
+	gap: 20px;
+	cursor: pointer;
+}
+
+.SearchItem a{
+	padding: 10px 15px;
+	background-color: rgb(7, 133, 175);
+	color: #fff;
+	font-size: 15px;
+	border: none;
+	cursor: pointer;
+	border-radius: 15px;
+	text-decoration: none;
+}

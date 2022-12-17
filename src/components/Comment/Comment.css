@@ -1,0 +1,15 @@
+.description{
+	margin: 10px 0;
+	font-size: 14px;
+	line-height: 20px;
+}
+
+.description span{
+	font-weight: bold;
+	margin-right: 10px;
+}
+
+.post-time{
+	color: rgba(0, 0, 0, 0.5);
+	font-size: 12px;
+}
